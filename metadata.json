@@ -1,0 +1,7 @@
+{
+  "name": "LegalEase AI - Legal Document Drafting Assistant",
+  "description": "Professional legal document drafting workbench with contradiction detection, 14-point QC audit, clause library, and Word/PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
